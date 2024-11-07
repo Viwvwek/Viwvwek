@@ -1,6 +1,10 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=viwvwek&bg_color=000000&color=0ddf30&line=0fff37&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<h1 align="center">[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=wyi40oexc08bsryefx4rbrxkj&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-</h1>
+<div align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=wyi40oexc08bsryefx4rbrxkj&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing" />
+  </a>
+</div>
+
 
 <h1 align="center">Hi 👋, I'm Viwvwek</h1>
 <h3 align="center">Naive</h3>
