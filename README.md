@@ -1,3 +1,18 @@
+
+# **Hi, I'm Viwvwek 👋**
+
+
+
+
+- **Current Role**: Full-stack Developer
+- **Languages I speak**: JavaScript, Python, Java, C++
+- **Currently learning**: React, Node.js, Cloud Technologies
+
+### 📬 Let's Connect:
+- LinkedIn: [viwvwek](https://linkedin.com/in/viwvwek)
+- Email: [viwvwek@example.com](mailto:vivekvinod2026@cs.ajce.in)
+
+
 <div align="center" width="100%">
   <img src="https://github-readme-stats.vercel.app/api?username=viwvwek&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=react" width="50%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=viwvwek&layout=compact&theme=react&hide_border=true" width="50%" />
