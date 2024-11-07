@@ -9,7 +9,7 @@
 <h1 align="center">Hi 👋, I'm Viwvwek</h1>
 <h3 align="center">Naive</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=viwvwek" alt="viwvwek" />
   </a>
