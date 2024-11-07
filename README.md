@@ -1,18 +1,15 @@
 
 # **Hi, I'm Viwvwek 👋**
-
-
-
-
 - **Current Role**: **Full-stack Developer**
 - **Languages I speak**: JavaScript, Python, Java, C++
 - **Currently learning**: React, Node.js, Cloud Technologies
 
 
-<div align="center" width="100%">
-  <img src="https://github-readme-stats.vercel.app/api?username=viwvwek&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=react" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=viwvwek&layout=compact&theme=react&hide_border=true" width="50%" />
+<div style="display: flex; justify-content: space-between; width: 100%; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=viwvwek&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=react" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=viwvwek&layout=compact&theme=react&hide_border=true" width="48%" />
 </div>
+
 
 <div width="100%">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=viwvwek&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" />
