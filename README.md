@@ -17,11 +17,14 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=viwvwek&theme=react-dark)](https://github.com/viwvwek)
 
-<div align="center">
+<div align="center" style="width: 100%; height: auto;">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=wyi40oexc08bsryefx4rbrxkj&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=wyi40oexc08bsryefx4rbrxkj&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" 
+         alt="Spotify Now Playing" 
+         style="width: 100%; height: auto;"/>
   </a>
 </div>
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
