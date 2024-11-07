@@ -4,7 +4,7 @@
 
 
 
-- **Current Role**: Full-stack Developer
+- **Current Role**: **Full-stack Developer**
 - **Languages I speak**: JavaScript, Python, Java, C++
 - **Currently learning**: React, Node.js, Cloud Technologies
 
