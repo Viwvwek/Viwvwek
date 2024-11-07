@@ -10,7 +10,7 @@
 
 ### 📬 Let's Connect:
 - LinkedIn: [viwvwek](https://linkedin.com/in/viwvwek)
-- Email: [viwvwek@example.com](mailto:vivekvinod2026@cs.ajce.in)
+- Email: [viwvwek](mailto:vivekvinod2026@cs.ajce.in)
 
 
 <div align="center" width="100%">
