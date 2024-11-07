@@ -17,13 +17,14 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=viwvwek&theme=react-dark)](https://github.com/viwvwek)
 
-<div align="center" style="width: 100%; height: auto;">
+<div align="center" style="width: 100%; height: 200px;">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=wyi40oexc08bsryefx4rbrxkj&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" 
          alt="Spotify Now Playing" 
-         style="width: 100%; height: auto;"/>
+         style="width: 100%; height: 100%; object-fit: cover;"/>
   </a>
 </div>
+
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
