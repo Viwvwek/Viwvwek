@@ -1,8 +1,13 @@
 
 # **Hi, I'm Viwvwek 👋**
-- **Current Role**: **Full-stack Developer**
-- **Languages I speak**: JavaScript, Python, Java, C++
-- **Currently learning**: React, Node.js, Cloud Technologies
+
+```js
+const Vivek = {
+  Languages: [JavaScript, HTML, CSS, C++, C, Python, Go],
+  Technologies: [ReactJS, Node.js, Express, Git],
+  Databases : [SQL, MongoDB]
+}
+```
 
 <div width="100%">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=viwvwek&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" />
