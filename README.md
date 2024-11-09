@@ -46,7 +46,7 @@ const Vivek = {
 <h3 align="center">Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,aws,bash,blender,docker,figma,firebase,gcp,git,linux,mongodb,mysql,nodejs" />
+    <img src="https://skillicons.dev/icons?i=arduino,aws,bash,blender,docker,figma,firebase,gcp,git,linux,xd,mongodb,mysql,nodejs" />
   </a>
 </p>
 
