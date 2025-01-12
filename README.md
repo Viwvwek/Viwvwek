@@ -1,5 +1,4 @@
 # **Hi, I'm [Viwvwek](https://www.chromakopia.com/enter/)👋**
-
 ```js
 const Vivek = {
   Languages: [JavaScript, HTML, CSS, C++, C, Python, Go],
@@ -7,11 +6,12 @@ const Vivek = {
   Databases : [SQL, MongoDB]
 }
 ```
-<div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW4yNXFzeWFvamp1MnNsNGthZ2I0MXB0ZGQyZWdhb2RoMmp1NHczMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jSeWrwDsNdqb6/giphy.gif" alt="Animated GIF">
+
+<div align="center" style="width: 100%; max-width: 300px; height: auto; margin: 20px 0;">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWd6eTkwbWp0N3ZkZml1bWN0M2kwbndzYmIxc2c3Nmt3NmZjdzZwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcC4A6ElcqtUJck/giphy.gif" 
+         alt="Animated GIF" 
+         style="width: 100%; max-width: 200px; height: auto; border-radius: 10px;" />
 </div>
-
-
 
 <div width="100%">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=viwvwek&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" />
