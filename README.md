@@ -7,6 +7,10 @@ const Vivek = {
   Databases : [SQL, MongoDB]
 }
 ```
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW4yNXFzeWFvamp1MnNsNGthZ2I0MXB0ZGQyZWdhb2RoMmp1NHczMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jSeWrwDsNdqb6/giphy.gif" alt="Animated GIF">
+</div>
+
 
 
 <div width="100%">
