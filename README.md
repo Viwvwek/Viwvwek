@@ -1,9 +1,9 @@
 # **Hi, I'm [Viwvwek](https://www.chromakopia.com/enter/)👋**
 ```js
 const Vivek = {
-  Languages: [JavaScript, HTML, CSS, C++, C, Python, Go],
-  Technologies: [ReactJS, Node.js, Express, Git],
-  Databases : [SQL, MongoDB]
+  Languages: [JavaScript, HTML, CSS, C, Python],
+  Technologies: [ReactJS, Node.js, Git],
+  Databases : [SQL,]
 }
 ```
 
