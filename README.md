@@ -40,7 +40,7 @@ const Vivek = {
 <h3 align="center">Languages</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,css,dart,html,java,javascript" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,css,dart,html,css,scss,tailwind,java,javascript" />
   </a>
 </p>
 <h3 align="center">Frameworks:</h3>
