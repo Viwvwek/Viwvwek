@@ -3,7 +3,7 @@
 const Vivek = {
   Languages: [JavaScript, HTML, CSS, C, Python],
   Technologies: [ReactJS, Node.js, Git],
-  Databases : [SQL,]
+  Databases : [SQL]
 }
 ```
 
@@ -40,19 +40,19 @@ const Vivek = {
 <h3 align="center">Languages</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,python,c,cpp,css,dart,go,html,java,javascript" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,css,dart,html,java,javascript" />
   </a>
 </p>
 <h3 align="center">Frameworks:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,flutter,react" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,express,flutter" />
   </a>
 </p>
 <h3 align="center">Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,aws,bash,blender,docker,figma,firebase,gcp,git,linux,xd,mongodb,mysql,nodejs" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,bash,blender,figma,firebase,git,linux,xd,mongodb,mysql,nodejs" />
   </a>
 </p>
 
