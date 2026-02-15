@@ -39,19 +39,19 @@ const Vivek = {
 <h3 align="center">Languages</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,css,dart,html,css,scss,tailwind,java,javascript" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,java,javascript" />
   </a>
 </p>
 <h3 align="center">Frameworks:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,express,flutter" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,express" />
   </a>
 </p>
 <h3 align="center">Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,bash,blender,figma,firebase,git,linux,xd,mongodb,mysql,nodejs" />
+    <img src="https://skillicons.dev/icons?i=bash,figma,git,linux,xd,mongodb,mysql,nodejs" />
   </a>
 </p>
 
