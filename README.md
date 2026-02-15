@@ -7,12 +7,6 @@ const Vivek = {
 }
 ```
 
-<div align="center" style="width: 100%; max-width: 900px; height: auto;">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWd6eTkwbWp0N3ZkZml1bWN0M2kwbndzYmIxc2c3Nmt3NmZjdzZwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcC4A6ElcqtUJck/giphy.gif" 
-         alt="Animated GIF" 
-         style="width: 100%; height: auto; border-radius: 10px;" />
-</div>
-
 
 <div width="100%">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=viwvwek&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" />
@@ -36,24 +30,6 @@ const Vivek = {
          style="width: 50%; height: 50%;"/>
   </a>
 </div>
-<h3 align="center">Languages</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,java,javascript" />
-  </a>
-</p>
-<h3 align="center">Frameworks:</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,express" />
-  </a>
-</p>
-<h3 align="center">Tools:</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,figma,git,linux,xd,mongodb,mysql,nodejs" />
-  </a>
-</p>
 
 
 
